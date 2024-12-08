@@ -1,7 +1,4 @@
-[submodule "steno-dictionaries"]
-	path = steno-dictionaries
-	url = git@github.com:aerickt/steno-dictionaries
 [submodule "lapwing"]
 	path = lapwing
-	url = git@github.com:aerickt/steno-dictionaries
+	url = https://github.com/aerickt/steno-dictionaries
 	branch = plover-lapwing-aio
